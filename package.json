@@ -1,0 +1,21 @@
+{
+  "name": "eorehinadvocasyproject",
+  "version": "1.0.0",
+  "description": "This template is a starter for building a website with HTML, CSS and JS, powered by [Vite](https://vitejs.dev/). HTML provides the basic structure, CSS controls formatting, and JavaScript controls the behavior of different elements.",
+  "main": "script.js",
+  "dependencies": {
+    "esbuild": "^0.19.12",
+    "nanoid": "^3.3.7",
+    "picocolors": "^1.0.0",
+    "postcss": "^8.4.32",
+    "rollup": "^4.9.6",
+    "source-map-js": "^1.0.2",
+    "vite": "^5.1.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

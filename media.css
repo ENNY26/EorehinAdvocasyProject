@@ -1,0 +1,209 @@
+@media only screen and (max-width: 770px) {
+html, body{
+width: 100%;
+height:100%; 
+margin: 0;
+padding: 0;
+overflow-x:hidden;
+  }
+}
+
+@media(max-width: 800px){
+  .hideOnMobile{
+    display: none;
+  }
+  .menu-button{
+    display: block;
+  }
+}
+@media(max-width: 400px){
+  .sidebar{
+    width: 100%;
+  }
+}
+@media screen and (max-width: 770px){
+ .hero h1{
+   padding-top:140px;
+  font-size: 3.5rem;
+ }       
+   
+.buttoncontainer{
+  padding-top:50px;
+  }
+  .containerbox h2{
+    font-size:1.4rem;
+  padding-left:100px;
+  }
+  .containerbox2 h2{
+    font-size:1.4rem;
+  padding-left:150px;
+    padding-bottom: 15px;
+    padding-top: 10px;
+  }
+  .box img {
+    width: 400px;
+  height:200px;
+  padding-left:0;
+  padding-right:100px;
+  margin-top:50px;
+    margin-bottom:0px;
+
+  }
+  .box p{
+  padding-left:100px;
+    font-size: 1.2rem;
+     word-spacing: 0.1rem;
+    padding-right:260px;
+
+  }
+     .box li{
+      padding-left:100px;
+      padding-right:260px;
+      font-size: 1.32rem;
+       word-spacing: 0.1rem;
+       list-style-position: inside;
+
+  }
+  .box{
+background: #dedede;
+
+
+    }
+
+    }
+@media screen and (max-width: 770px) {
+    .box {
+        flex-direction: column;
+      align-items:center;
+      
+      
+    }
+
+}
+ 
+/* donate */
+@media screen and (max-width: 770px) {
+.donatecontainer h1{
+ font-size:2.3rem;
+}
+  .donatecontainer p{
+    font-size:0.8rem;
+    padding-bottom:20px;
+}
+}
+  
+/* 2 circles */
+@media screen and (max-width: 770px) {
+.twocircles {
+   display: none;
+   
+  }
+}
+
+/* articles card*/
+  @media screen and (max-width: 770px) {
+
+    .flexcard {
+    justify-content: space-between;
+    }
+  }
+
+@media screen and (max-width: 770px) {
+  .contactbox{
+    flex-wrap: wrap;
+  }
+}
+
+@media screen and (max-width: 770px) {
+  .contactleft{
+flex-basis: 100%;
+    
+}
+  .contactleft label{
+font-size:0.6rem;
+    font-weight: bolder;
+    
+    
+    }
+  .contactleft text-area{
+ width: 100%;
+ 
+   
+  }
+ 
+  }
+@media screen and (max-width: 770px) {
+  .amount-donating button{
+width: 2210px;
+    
+    }
+}
+
+@media screen and (max-width: 770px) {
+.title-text h1{
+font-size: 1.8rem;
+
+}
+
+  
+  }
+
+
+  
+@media screen and (max-width: 770px) {
+.how{
+padding-right: 10px;
+  }
+}
+@media screen and (max-width: 770px) {
+.pledge {
+  max-width: 100%; /* Make the paragraph occupy full width */
+  margin-left: 0; /* Remove left margin */
+  margin-right: 20px;
+}
+}
+
+@media screen and (max-width: 770px) {
+.children-gallery-row {
+  width: 100%;
+
+
+  }
+  .children-gallery-col {
+    margin-right: 400px;
+  }
+   .children-gallery-col img {
+     padding-right: 30px;
+  }
+}
+@media screen and (max-width: 770px) {
+  .petitions {
+    width: auto; /* Allow containers to fill available width */
+    margin-left: auto; /* Center the containers horizontally */
+    margin-right: auto;
+    padding-bottom: 50px;
+  flex-direction: column; 
+    height: 500px;
+  }
+
+  }
+
+@media screen and (max-width: 770px) {
+.flexcard{
+padding-left: 40px;
+}
+}
+@media screen and (max-width: 700px) {
+  .footer{
+    bottom: unset;
+  }
+  .foot-col{
+    flex-basis: 100%;
+    
+  }
+  
+  .foot-col:nth-child(2), .foot-col:nth-child(3){
+    flex-basis: 100%;{
+  }
+
+  title1
